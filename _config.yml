@@ -1,5 +1,5 @@
+title: The title of your site
+description: A short description of your site's purpose
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-slate
-title: [The title of your site]
-description: [A short description of your site's purpose]
-show_downloads: http://hypersingular.com/
-google_analytics: [Your Google Analytics tracking ID]
